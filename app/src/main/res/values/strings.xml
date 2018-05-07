@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EventBusDemo</string>
+    <string name="secondactivity">跳转到SecondActivity</string>
+    <string name="first_event">First Event</string>
+    <string name="second_event">Second Event</string>
+    <string name="third_event">Third Event</string>
+</resources>
